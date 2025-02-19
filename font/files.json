@@ -1,0 +1,24 @@
+{
+  "path": "/PSP_GAME/USRDIR/pack/P2PT_ALL.cpk$/syscg.bin$",
+  "files": {
+    "font0.png": [
+      {
+        "path": "5.gim$/image.png",
+        "args": { "useSourcePalette": true, "matchPalette": true }
+      }
+    ],
+    "font1.png": [
+      {
+        "path": "6.gim$/image.png",
+        "args": { "useSourcePalette": true, "matchPalette": true }
+      }
+    ],
+    "font_small.png": [
+      {
+        "path": "43.gim$/image.png",
+        "args": { "useSourcePalette": true, "matchPalette": true }
+      }
+    ]
+  },
+  "exclude": ["font_info_small.json", "font_info.json"]
+}

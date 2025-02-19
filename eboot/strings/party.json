@@ -1,0 +1,26 @@
+{
+  "name": "party",
+  "length": 8,
+  "tables": [
+    {
+      "type": "pointer",
+      "suffix": "name",
+      "addr": "8cacdc0",
+      "format": "font"
+    },
+    {
+      "type": "pointer",
+      "stride": 2,
+      "suffix": "descr1",
+      "addr": "8caa334",
+      "format": "font"
+    },
+    {
+      "type": "pointer",
+      "stride": 2,
+      "suffix": "descr2",
+      "addr": "8caa338",
+      "format": "font"
+    }
+  ]
+}

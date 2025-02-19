@@ -1,0 +1,11 @@
+{
+    "name": "menu",
+    "length": 72,
+    "tables": [
+      {
+        "type": "pointer",
+        "addr": "8c55e1c",
+        "format": "font"
+      }
+    ]
+  }

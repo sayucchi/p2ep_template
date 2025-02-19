@@ -1,0 +1,16 @@
+{
+    "name": "event",
+    "length": 465,
+    "tables": [
+      {
+        "type": "pointer",
+        "addr": "8d074c0",
+        "format": "font"
+      },
+      {
+        "type": "pointer",
+        "addr": "8d0bf94",
+        "format": "font"
+      }
+    ]
+  }

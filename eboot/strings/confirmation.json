@@ -1,0 +1,13 @@
+{
+    "name": "confirmation",
+    "count": 1,
+    "tables": [
+        {
+            "type": "greenbox",
+            "addr": [
+                "8c57078",
+                "8c57060"
+            ]
+        }
+    ]
+}

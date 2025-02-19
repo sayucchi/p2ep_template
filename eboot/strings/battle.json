@@ -1,0 +1,41 @@
+{
+  "name": "battle",
+  "length": 111,
+  "tables": [
+    {
+      "type": "pointer",
+      "addr": "8ca9f24",
+      "format": "font",
+      "length": 18,
+      "offset": 0
+    },
+    {
+      "type": "pointer",
+      "addr": "8ca9e74",
+      "format": "font",
+      "length": 44,
+      "offset": 18
+    },
+    {
+      "type": "pointer",
+      "addr": "8ca9e40",
+      "format": "font",
+      "length": 13,
+      "offset": 62
+    },
+    {
+      "type": "pointer",
+      "addr": "8c46940",
+      "format": "font",
+      "length": 12,
+      "offset": 75
+    },
+    {
+      "type": "pointer",
+      "addr": "8c46624",
+      "format": "font",
+      "length": 24,
+      "offset": 87
+    }
+  ]
+}

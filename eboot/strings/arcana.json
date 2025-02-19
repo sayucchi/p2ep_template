@@ -1,0 +1,11 @@
+{
+  "name": "arcana",
+  "length": 34,
+  "tables": [
+    {
+      "type": "pointer",
+      "addr": "8caa2ac",
+      "format": "font"
+    }
+  ]
+}

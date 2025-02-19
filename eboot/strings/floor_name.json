@@ -1,0 +1,16 @@
+{
+  "name": "floor_name",
+  "length": 1120,
+  "tables": [
+    {
+      "type": "pointer",
+      "addr": "8d0edb0",
+      "format": "font"
+    },
+    {
+      "type": "pointer",
+      "addr": "8d114b8",
+      "format": "font"
+    }
+  ]
+}

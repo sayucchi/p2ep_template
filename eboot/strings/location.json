@@ -1,0 +1,12 @@
+{
+  "name": "location",
+  "length": 464,
+  "tables": [
+    {
+      "type": "pointer",
+      "addr": "8d0a410",
+      "format": "font",
+      "allowMissing": true
+    }
+  ]
+}
