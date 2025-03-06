@@ -2,6 +2,7 @@
   "name": "P2EP_translation",
   "game": "ep",
   "locale": "en",
+  "isoLocale": "jp",
   "ebootPath": "PSP_GAME/SYSDIR/EBOOT.BIN",
   "symname": ".ppsspp-symbols.sym",
   "asmOrder": ["symbols.js"],
